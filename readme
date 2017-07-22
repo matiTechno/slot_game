@@ -1,0 +1,3 @@
+* unix target has a hardcoded terminal emulator for the client window
+* server accepts a port number as the argument (the default is defined in CMakeLists.txt)
+* server starts client
