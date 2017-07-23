@@ -1,7 +1,6 @@
 #include "common.hpp"
 #include <algorithm>
 #include <iostream>
-#include <assert.h>
 
 std::map<Cmd, const char*> commands = {{Cmd::exit, "exit"}, {Cmd::draw, "draw"}};
 
